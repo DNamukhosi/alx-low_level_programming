@@ -8,3 +8,5 @@
 	+ script that compiles a C file and creates an executable named cisfun
 + 4. Hello, puts 
 	+ a C program that prints 
++ 5. Hello, printf 
+	+ a C program that prints 
