@@ -10,3 +10,5 @@
 	+ a C program that prints 
 + 5. Hello, printf 
 	+ a C program that prints 
++ 6. Size is not grandeur, and territory does not make a nation 
+	+  C program that prints the size of various types on the computer it is compiled and run on.
