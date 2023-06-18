@@ -7,12 +7,13 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{	char al;
-	for(al = 'a'; al <= 'z'; al++)
-	{
-		putchar(al);
-	}
-	putchar('\n');
-	return(0);
-}
+{
+    char alphabet;
 
+    for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+        putchar(al);
+    
+    putchar('\n');
+    
+    return(0);
+}
