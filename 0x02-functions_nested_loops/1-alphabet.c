@@ -8,7 +8,8 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{	char alphabet;
+{
+	char alphabet;
 	
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 		_putchar(alphabet);
