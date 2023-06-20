@@ -1,19 +1,13 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * Main - print _putchar
+ * main - Entry point of the program
  *
- * Description: print _putchar
+ * Description: Prints _putchar followed by a new line
  *
- * Return: Always 0
+ * Return: Always 0 (indicating successful execution)
  */
-
 int main(void)
-/**
- * Main - print _putchar
- * Description: print _putchar
- * Return: zero
- */
 {
 	_putchar('_');
 	_putchar('p');
@@ -24,5 +18,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return(0);
+	return (0);
 }
