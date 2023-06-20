@@ -3,7 +3,9 @@
 /**
  * main - print the letters of the alphabet in lowercase using  _putchar
  *
- * Description: print_alphabet function to print the letters of the alphabet in lowercase
+ * Description: print_alphabet print alphabet in lowercase
+ *
+ * print_alphabet - print alphabet
  *
  * Return: Always 0 (Success)
  */
