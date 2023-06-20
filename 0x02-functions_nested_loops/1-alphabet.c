@@ -5,11 +5,15 @@
  *
  * Description: print_alphabet print alphabet in lowercase
  *
- * print_alphabet - print alphabet
  *
  * Return: void
  */
 void print_alphabet(void)
+/**
+ * Description: print_alphabet - print alphabet
+ *
+ * Return: void
+ */
 {
 	char alphabet;
 
