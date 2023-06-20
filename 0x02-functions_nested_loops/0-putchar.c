@@ -10,7 +10,8 @@
 
 int main(void)
 /**
- * Main- print _putchar
+ * Main - print _putchar
+ * Description: print _putchar
  * Return: zero
  */
 {
