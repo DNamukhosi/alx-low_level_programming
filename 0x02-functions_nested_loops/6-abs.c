@@ -2,8 +2,8 @@
 #include "main.h"
 /**
  * _abs - print the absolute value of an integer
- * 
  *
+ * n: is an integer
  * Return: integer
  */
 
