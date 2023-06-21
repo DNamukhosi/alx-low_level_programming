@@ -3,6 +3,7 @@
 /**
  * _abs - print the absolute value of an integer
  *
+ * @n: n is an integer
  * Deascription: n is an integer
  *
  * Return: integer
