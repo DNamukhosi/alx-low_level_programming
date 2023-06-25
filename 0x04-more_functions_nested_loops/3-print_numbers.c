@@ -5,8 +5,6 @@
  *
  * Return: void
  */
-int _putchar(char i);
-
 void print_numbers(void)
 {
 	char i;
